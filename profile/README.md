@@ -1,6 +1,6 @@
-# ixnode
+# ixnode packages
 
-Overview of available packages.
+Overview of available packages for ixnode packages.
 
 ## ixnode/bash-db-dumper
 
