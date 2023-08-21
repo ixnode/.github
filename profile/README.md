@@ -14,82 +14,116 @@ Overview of available packages for ixnode packages. All packages are located at:
 
 A bash DB dumper to easily dump databases like MySQL and PostgreSQL.
 
+* https://github.com/ixnode/bash-db-dumper
+
 
 ## ixnode/bash-version-manager
 
 A Bash version manager for easy version management with semantic versioning.
+
+* https://github.com/ixnode/bash-version-manager
 
 
 ## ixnode/php-api-version-bundle
 
 Provides the base API plattform functionality for new symfony projects.
 
+* https://github.com/ixnode/php-api-version-bundle
+
 
 ## ixnode/php-array-to-object
 
 A PHP array to object converter.
+
+* https://github.com/ixnode/php-array-to-object
 
 
 ## ixnode/php-branch-diagram-builder
 
 A PHP Branch diagram builder.
 
+* https://github.com/ixnode/php-branch-diagram-builder
+
 
 ## ixnode/php-checker
 
 A collection of various PHP types check classes.
+
+* https://github.com/ixnode/php-checker
 
 
 ## ixnode/php-cli-image
 
 This library converts a given image to ASCII string.
 
+* https://github.com/ixnode/php-cli-image
+
 
 ## ixnode/php-container
 
 A collection of various PHP container classes like JSON, File, etc.
+
+* https://github.com/ixnode/php-container
 
 
 ## ixnode/php-coordinate
 
 This library offers a collection of various PHP coordinate classes like Coordinate, etc.
 
+* https://github.com/ixnode/php-coordinate
+
 
 ## ixnode/php-date-parser
 
 This library parses various given date and time strings into DateTime or DateTimeImmutable classes which return the time range. Can be used e.g. excellently for command line arguments and options to make database queries with.
+
+* https://github.com/ixnode/php-date-parser
 
 
 ## ixnode/php-exception
 
 This library offers some ready to use PHP Exceptions.
 
+* https://github.com/ixnode/php-exception
+
 
 ## ixnode/php-json-schema-validator
 
 An easy-to-use PHP Json Schema Validator.
+
+* https://github.com/ixnode/php-json-schema-validator
 
 
 ## ixnode/php-naming-conventions
 
 A PHP naming conventions converter.
 
+* https://github.com/ixnode/php-naming-conventions
+
 
 ## ixnode/php-phpunit-printer
 
 A PHPUnit unit test printer.
+
+* https://github.com/ixnode/php-phpunit-printer
 
 
 ## ixnode/php-size-byte
 
 A PHP size byte converter
 
+* https://github.com/ixnode/php-size-byte
+
 
 ## ixnode/php-timezone
 
 This library converts different timezone strings.
 
+* https://github.com/ixnode/php-timezone
+
 
 ## ixnode/php-vault
 
 Secures a given env file.
+
+* https://github.com/ixnode/php-vault
