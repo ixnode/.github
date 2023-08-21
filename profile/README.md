@@ -1,9 +1,14 @@
-# ixnode packages
+# ixnode
 
 Overview of available packages for ixnode packages. All packages are located at:
 
 * https://packagist.org/users/ixnode
 
+# Authors
+
+* Björn Hempel <bjoern@hempel.li>
+
+# ixnode packages
 
 ## ixnode/bash-db-dumper
 
