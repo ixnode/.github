@@ -87,6 +87,13 @@ This library offers some ready to use PHP Exceptions.
 * https://github.com/ixnode/php-exception
 
 
+## ixnode/php-iban
+
+This library provides a converter and checker for account number, bank code and IBAN.
+
+* https://github.com/ixnode/php-iban
+
+
 ## ixnode/php-json-schema-validator
 
 An easy-to-use PHP Json Schema Validator.
