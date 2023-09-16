@@ -80,6 +80,13 @@ This library parses various given date and time strings into DateTime or DateTim
 * https://github.com/ixnode/php-date-parser
 
 
+## ixnode/php-dsn-parser
+
+This library helps to parse DSN\URI strings.
+
+* https://github.com/ixnode/php-dsn-parser
+
+
 ## ixnode/php-exception
 
 This library offers some ready to use PHP Exceptions.
