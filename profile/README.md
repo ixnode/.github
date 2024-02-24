@@ -141,3 +141,10 @@ This library converts different timezone strings.
 Secures a given env file.
 
 * https://github.com/ixnode/php-vault
+
+
+## ixnode/php-web-crawler
+
+This PHP class allows you to crawl recursively a given html page (or a given html file) and collect some data from it.
+
+* https://github.com/ixnode/php-web-crawler
