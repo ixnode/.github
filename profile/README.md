@@ -94,13 +94,6 @@ This library offers some ready to use PHP Exceptions.
 * https://github.com/ixnode/php-exception
 
 
-## ixnode/php-public-holiday
-
-This PHP package automatically generates holidays for a given year, considering both federal states and the country.
-
-* https://github.com/ixnode/php-public-holiday
-
-
 ## ixnode/php-iban
 
 This library provides a converter and checker for account number, bank code and IBAN.
@@ -127,6 +120,13 @@ A PHP naming conventions converter.
 A PHPUnit unit test printer.
 
 * https://github.com/ixnode/php-phpunit-printer
+
+
+## ixnode/php-public-holiday
+
+This PHP package automatically generates holidays for a given year, considering both federal states and the country.
+
+* https://github.com/ixnode/php-public-holiday
 
 
 ## ixnode/php-size-byte
